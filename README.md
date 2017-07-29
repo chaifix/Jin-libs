@@ -1,5 +1,7 @@
 # Jin libraries    
 
 * behavior_tree  
-  A implementation of behavior tree in lua. 
-  
+  An implementation of behavior tree in lua. 
+
+* physics 
+  A small 2d physics lib.   
